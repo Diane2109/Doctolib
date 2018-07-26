@@ -1,0 +1,2 @@
+class SuppSpecialty < ApplicationRecord
+end

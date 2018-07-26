@@ -1,0 +1,2 @@
+class AddIndexToAll < ApplicationRecord
+end
