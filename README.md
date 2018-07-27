@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+--------------------------------------------------------------------------------------
+Application DOCTOLIB ! (pimpé ;) 
+--------------------------------------------------------------------------------------
 
-Things you may want to cover:
+Salut moussaillon tu vas bien ? 
 
-* Ruby version
+Dans ce README il y a un exo d'une app rails, avec des models et des associations. Cette appli a été réalisée par Diane à l'aide des six stars !
 
-* System dependencies
+Lancer l'appli : 
 
-* Configuration
+Verifie ta version de Ruby : 5.2.1 !
 
-* Database creation
+Télécharge ou clone le repo
 
-* Database initialization
+Place toi dans le dossier correspondant et fait depuis ton terminal bundle install
 
-* How to run the test suite
+Puis dans le dossier db ouvre le fichier sqlite pour voir les bases de données.
 
-* Services (job queues, cache servers, search engines, etc.)
+----------------------------------------------------------------------------------------
+Contenu
+----------------------------------------------------------------------------------------
 
-* Deployment instructions
 
-* ...
+Les utilisateurs
+
+postent des liens
+
+qui peuvent être commentés
+
+à l'infini ;)
+
+Bon THP à toi moussaillon!
